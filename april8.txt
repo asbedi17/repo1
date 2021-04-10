@@ -1,0 +1,28 @@
+Continous Integration - DevOps
+jenkins  
+Changes in version control system
+CI --> Detailed understanding of this.
+Developers put code in VCS like gits
+Need system to pull code and build it is CB (Continuous Build)
+Deploy to Test
+Fail is to CIntegration
+CT --> Fail (bugs the developers fix the cold. ->CD (quality/fast/commercial)
+
+Continous Integration (can happen multiple times a day --> Tools like Jenkins(mostly used)
+Continous Integration --> integrate build (delivery pipeline)
+Jenkins (java app)--> Automate your pipeline  Open source good plugin support, good comm support
+fast reliable, Good OS Support, Scripted builds
+Upgrades are easily available
+Lightweight container support
+Distributed team mgmt
+YOu can automate the entire process
+CD Pipeline for you using Jenkins
+Jenkins is an orchestrator
+Shell is in linux
+bash program is executing it now.Shell script is executed now
+Tommorow we will create the real jobs
+
+
+
+
+
