@@ -1,1 +1,4 @@
+
 my new txt file on local repo
+my new text file 
+
